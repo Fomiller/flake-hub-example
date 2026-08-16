@@ -1,4 +1,4 @@
 {
   name = "flake-hub-example";
-  codeowners = [ "@Fomiller" ];
+  codeowners = [ "@Fomiller" "@Fomiller-bot" ];
 }
