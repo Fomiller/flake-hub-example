@@ -1,4 +1,5 @@
 {
   name = "flake-hub-example";
-  codeowners = [ "@Fomiller" ];
+  namePrefix = "flake-hub-";
+  github.codeowners = [ "@Fomiller" ];
 }
